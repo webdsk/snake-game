@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color:beige;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+#boxing{
+    border: 5px solid chartreuse;
+}
+
